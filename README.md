@@ -8,7 +8,7 @@
 </div>  
 
 ## 🔗 Live Demo  
-<p align="center"><a href=""><img alt="Forest Page" src="src/img/preview.png"></a></p>  
+<p align="center"><a href="https://sarahprando.github.io/forest/src/"><img alt="Forest Page" src="src/img/preview.png"></a></p>  
 
 ## ✨ Features  
 ✔️ Elegant and minimalist UI  
